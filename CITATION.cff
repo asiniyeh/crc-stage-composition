@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated article."
+title: "Analysis code: stage-associated gene expression in colorectal cancer reflects tumour composition"
+type: software
+license: MIT
+version: 1.0.0
+date-released: 2026-11-15
+authors:
+  - family-names: "[SURNAME]"
+    given-names: "Ahmad"
+    affiliation: "College of Medicine and Health Sciences, Abdullah Al-Salem University, Kuwait"
+  - family-names: "Al-Shehri"
+    given-names: "Saad S."
+    affiliation: "Department of Laboratories Science, College of Applied Medical Sciences, Taif University, Saudi Arabia"
+keywords: [colorectal cancer, tumour stage, tumour purity, consensus molecular subtypes, TCGA, GEO]

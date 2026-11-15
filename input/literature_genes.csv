@@ -1,0 +1,101 @@
+original_name,hgnc_symbol,reported_direction_vs_normal,source,method,note
+CXCL12,CXCL12,down,Kheirelseid et al. 2013,qPCR panel,
+CDH17,CDH17,down,Kheirelseid et al. 2013,qPCR panel,
+MUC2,MUC2,down,Kheirelseid et al. 2013,qPCR panel,
+L-FABP,FABP1,down,Kheirelseid et al. 2013,qPCR panel,old name L-FABP
+PDCD4,PDCD4,down,Kheirelseid et al. 2013,qPCR panel,
+IL8,CXCL8,up,Kheirelseid et al. 2013,qPCR panel,old name IL8
+CEACAM5,CEACAM5,NS,Kheirelseid et al. 2013,qPCR panel,
+CXCR4,CXCR4,NS,Kheirelseid et al. 2013,qPCR panel,
+CXCR7,ACKR3,NS,Kheirelseid et al. 2013,qPCR panel,old name CXCR7
+TGFB1,TGFB1,NS,Kheirelseid et al. 2013,qPCR panel,
+TGFBR1,TGFBR1,NS,Kheirelseid et al. 2013,qPCR panel,
+TGFBR2,TGFBR2,NS,Kheirelseid et al. 2013,qPCR panel,
+KRT23,KRT23,up,Yang et al. 2016,RNA-seq,
+COL10A1,COL10A1,up,Yang et al. 2016,RNA-seq,listed twice in the original sheet
+KIAA1199,CEMIP,up,Yang et al. 2016,RNA-seq,old name KIAA1199
+TGFBI,TGFBI,up,Yang et al. 2016,RNA-seq,
+MYC,MYC,up,Yang et al. 2016,RNA-seq,
+SCN7A,SCN7A,down,Yang et al. 2016,RNA-seq,
+EPHA7,EPHA7,down,Yang et al. 2016,RNA-seq,
+Gp130,IL6ST,down,Nosho et al. 2005,cDNA array,
+Rho 8,RND3,down,Nosho et al. 2005,cDNA array,Rho8 = RhoE; mapping probable - check the paper
+Ras-GAP,RASA1,down,Nosho et al. 2005,cDNA array,
+P120,CTNND1,down,Nosho et al. 2005,cDNA array,p120 catenin assumed - check the paper
+MDR1,ABCB1,down,Nosho et al. 2005,cDNA array,
+aN-catenin,CTNNA2,down,Nosho et al. 2005,cDNA array,
+Egr-2,EGR2,down,Nosho et al. 2005,cDNA array,
+PMS1,PMS1,down,Nosho et al. 2005,cDNA array,
+GAK,GAK,down,Nosho et al. 2005,cDNA array,
+IGF-2,IGF2,up,Nosho et al. 2005,cDNA array,
+E1AF,ETV4,up,Nosho et al. 2005,cDNA array,
+iNOS,NOS2,up,Nosho et al. 2005,cDNA array,
+Rho GDIb,ARHGDIB,up,Nosho et al. 2005,cDNA array,
+GSTP1,GSTP1,up,Nosho et al. 2005,cDNA array,
+c-jun,JUN,up,Nosho et al. 2005,cDNA array,
+ECGF1,TYMP,up,Nosho et al. 2005,cDNA array,
+nm23,NME1,up,Nosho et al. 2005,cDNA array,
+Smad4,SMAD4,up,Nosho et al. 2005,cDNA array,
+TIMP1,TIMP1,up,Nosho et al. 2005,cDNA array,
+BMP-4,BMP4,,Nosho et al. 2005,cDNA array,no direction in sheet
+Cdc42,CDC42,,Nosho et al. 2005,cDNA array,no direction in sheet
+Erk1,MAPK3,,Nosho et al. 2005,cDNA array,no direction in sheet
+FAK,PTK2,,Nosho et al. 2005,cDNA array,no direction in sheet
+Galectin-1,LGALS1,,Nosho et al. 2005,cDNA array,no direction in sheet
+HLA-DQ,HLA-DQA1,,Nosho et al. 2005,cDNA array,HLA-DQ is a family; DQA1 used
+Laminin b-3,LAMB3,,Nosho et al. 2005,cDNA array,no direction in sheet
+MMP-15,MMP15,,Nosho et al. 2005,cDNA array,no direction in sheet
+Mucin 3,MUC3A,,Nosho et al. 2005,cDNA array,no direction in sheet
+P21,CDKN1A,,Nosho et al. 2005,cDNA array,no direction in sheet
+CPNE8,CPNE8,,Pan et al. 2019,RNA-seq,prognostic gene
+DNMT3B,DNMT3B,,Pan et al. 2019,RNA-seq,prognostic gene
+CDKN2A,CDKN2A,,Pan et al. 2019,RNA-seq,prognostic gene
+ATP6V1A,ATP6V1A,,Pan et al. 2019,RNA-seq,prognostic gene
+SCARA5,SCARA5,,Pan et al. 2019,RNA-seq,prognostic gene
+ANLN,ANLN,,Pan et al. 2019,RNA-seq,prognostic gene
+BEST4,BEST4,,Pan et al. 2019,RNA-seq,prognostic gene
+KLF9,KLF9,,Pan et al. 2019,RNA-seq,prognostic gene
+GRIN2D,GRIN2D,,Pan et al. 2019,RNA-seq,prognostic gene
+CCAT1,CCAT1,,Kalmar et al. 2019,RNA-seq,lncRNA
+PVT1,PVT1,,Kalmar et al. 2019,RNA-seq,lncRNA
+CRNDE,CRNDE,,Kalmar et al. 2019,RNA-seq,lncRNA
+LINC01021,LINC01021,,Kalmar et al. 2019,RNA-seq,lncRNA
+LINC-ROR,LINC-ROR,,Kalmar et al. 2019,RNA-seq,lncRNA
+UCA1,UCA1,,Kalmar et al. 2019,RNA-seq,lncRNA
+FTX,FTX,,Kalmar et al. 2019,RNA-seq,lncRNA
+MEG3,MEG3,,Kalmar et al. 2019,RNA-seq,lncRNA
+TCF7,TCF7,,Yang et al. 2017,cDNA array,
+CCND1,CCND1,,Yang et al. 2017,cDNA array,
+MET,MET,,Yang et al. 2017,cDNA array,
+LEF1,LEF1,,Yang et al. 2017,cDNA array,
+AXIN2,AXIN2,,Yang et al. 2017,cDNA array,
+CLDN1,CLDN1,up,Marimuthu et al. 2011,microarray,GASTRIC cancer study
+SPP1,SPP1,up,Marimuthu et al. 2011,microarray,GASTRIC cancer study
+TNFRSF11B,TNFRSF11B,up,Marimuthu et al. 2011,microarray,GASTRIC cancer study
+THBS2,THBS2,up,Marimuthu et al. 2011,microarray,GASTRIC cancer study
+SERPINB5,SERPINB5,up,Marimuthu et al. 2011,microarray,GASTRIC cancer study
+INHBA,INHBA,up,Marimuthu et al. 2011,microarray,GASTRIC cancer study
+VIL1,VIL1,up,Marimuthu et al. 2011,microarray,GASTRIC cancer study
+HMGA2,HMGA2,up,Marimuthu et al. 2011,microarray,GASTRIC cancer study
+SULF1,SULF1,up,Marimuthu et al. 2011,microarray,GASTRIC cancer study
+CLRN3,CLRN3,up,Marimuthu et al. 2011,microarray,GASTRIC cancer study
+SFRP4,SFRP4,up,Marimuthu et al. 2011,microarray,GASTRIC cancer study
+SPOCK1,SPOCK1,up,Marimuthu et al. 2011,microarray,GASTRIC cancer study
+P4HA3,P4HA3,up,Marimuthu et al. 2011,microarray,GASTRIC cancer study
+TMEM158,TMEM158,up,Marimuthu et al. 2011,microarray,GASTRIC cancer study
+CHRDL2,CHRDL2,up,Marimuthu et al. 2011,microarray,GASTRIC cancer study
+GREM1,GREM1,up,Marimuthu et al. 2011,microarray,GASTRIC cancer study
+ASPN,ASPN,up,Marimuthu et al. 2011,microarray,GASTRIC cancer study
+ASH1L,ASH1L,up,Marimuthu et al. 2011,microarray,GASTRIC cancer study
+DOCK4,DOCK4,up,Marimuthu et al. 2011,microarray,GASTRIC cancer study
+HOXA11S,HOXA11-AS,up,Marimuthu et al. 2011,microarray,GASTRIC cancer study; old name HOXA11S
+PPAPDC1A,PLPP4,up,Marimuthu et al. 2011,microarray,GASTRIC cancer study; old name PPAPDC1A
+DPYSL3,DPYSL3,up,Marimuthu et al. 2011,microarray,GASTRIC cancer study
+COMP,COMP,up,Marimuthu et al. 2011,microarray,GASTRIC cancer study
+LPPR4,PLPPR4,up,Marimuthu et al. 2011,microarray,GASTRIC cancer study; old name LPPR4
+LIPF,LIPF,down,Marimuthu et al. 2011,microarray,GASTRIC cancer study
+KCNE2,KCNE2,down,Marimuthu et al. 2011,microarray,GASTRIC cancer study
+ERO1LB,ERO1B,down,Marimuthu et al. 2011,microarray,GASTRIC cancer study; old name ERO1LB
+PDE1B,PDE1B,down,Marimuthu et al. 2011,microarray,GASTRIC cancer study
+GRIA3,GRIA3,down,Marimuthu et al. 2011,microarray,GASTRIC cancer study
+GRIN3B,GRIN3B,down,Marimuthu et al. 2011,microarray,GASTRIC cancer study

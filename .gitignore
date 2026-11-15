@@ -1,0 +1,9 @@
+data_raw/
+data/
+results/
+figures/
+logs/
+GDCdata/
+*.rds
+*.RData
+.Rhistory
