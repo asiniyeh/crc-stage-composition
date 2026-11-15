@@ -42,6 +42,9 @@ Everything runs on public data: TCGA-COAD/READ, GSE39582 and GSE17536.
 | 07_survival | Panel score vs RFS/OS | Figure 6, Table 3 |
 | 08_classifier | LASSO stage classifier (secondary) | ROC figure, classifier_performance.csv |
 | 09_literature_genes | Re-tests the curated literature gene list | literature_genes_retest.csv |
+| 10_sensitivity | Five limma-voom sensitivity analyses (Table 2) | sensitivity_summary.csv |
+| 11_revision | Effect-size attenuation, collinearity, decomposition of the adjustment, classifier with selection inside CV, replication permutation null, Hartung-Knapp meta-analysis, excluded tumours (Supplementary Table S6) | rev_R*.csv |
+| 11b_null_benchmark | Null benchmark with random covariates, 100 draws per type (values reported) | rev_R4_null_benchmark.csv, rev_R4_null_draws.csv |
 
 All thresholds are fixed in `R/00_config.R` and match the protocol.
 

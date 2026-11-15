@@ -12,7 +12,10 @@ scripts <- c(
   "R/06_validation.R",
   "R/07_survival.R",
   "R/08_classifier.R",
-  "R/09_literature_genes.R"
+  "R/09_literature_genes.R",
+  "R/10_sensitivity.R",
+  "R/11_revision.R",
+  "R/11b_null_benchmark.R"   # re-runs the null benchmark with 100 draws per type (values reported)
 )
 start_at <- 1          # change to e.g. 4 to resume from script 04
 
