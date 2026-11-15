@@ -3,11 +3,12 @@ message: "If you use this code, please cite the associated article."
 title: "Analysis code: stage-associated gene expression in colorectal cancer reflects tumour composition"
 type: software
 license: MIT
-version: 1.0.0
+version: 1.0.2
 date-released: 2026-11-15
 authors:
-  - family-names: "[SURNAME]"
+  - family-names: "Abu Siniyeh"
     given-names: "Ahmad"
+    orcid: "https://orcid.org/0000-0002-1175-5017"
     affiliation: "College of Medicine and Health Sciences, Abdullah Al-Salem University, Kuwait"
   - family-names: "Al-Shehri"
     given-names: "Saad S."

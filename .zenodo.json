@@ -3,9 +3,23 @@
   "upload_type": "software",
   "license": "MIT",
   "creators": [
-    {"name": "[SURNAME], Ahmad", "affiliation": "Abdullah Al-Salem University, Kuwait"},
-    {"name": "Al-Shehri, Saad S.", "affiliation": "Taif University, Saudi Arabia"}
+    {
+      "name": "Abu Siniyeh, Ahmad",
+      "affiliation": "Abdullah Al-Salem University, Kuwait",
+      "orcid": "0000-0002-1175-5017"
+    },
+    {
+      "name": "Al-Shehri, Saad S.",
+      "affiliation": "Taif University, Saudi Arabia"
+    }
   ],
-  "keywords": ["colorectal cancer", "tumour stage", "tumour purity", "consensus molecular subtypes", "TCGA", "GEO"],
+  "keywords": [
+    "colorectal cancer",
+    "tumour stage",
+    "tumour purity",
+    "consensus molecular subtypes",
+    "TCGA",
+    "GEO"
+  ],
   "description": "R pipeline reproducing all analyses, figures and supplementary tables: TCGA-COAD/READ download, ESTIMATE and CMS composition, DESeq2 models with and without composition adjustment, Hallmark GSEA, external validation in GSE39582 and GSE17536, random-effects meta-analysis, survival models, LASSO stage classifier and limma-voom sensitivity analyses."
 }
